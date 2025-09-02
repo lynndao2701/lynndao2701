@@ -38,6 +38,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-003f88?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
 
