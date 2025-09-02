@@ -1,5 +1,5 @@
 ## Hi there :wave: I'm Lynn - [Linh Dao]🌱 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGoxcmdmbXp5bnRncDd0aXExdG42Z2w4OXByZHprcHJ6amM2YjUwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://i.pinimg.com/originals/00/56/76/005676b619ce505d6ef74e21e1092204.gif" />
 
 - 🔭 I'm passionate about turning data into insights and building solutions that make an impact.
 - 🥅 Favorite Quote: „Aller Anfang ist schwer, aber die beste Zeit zu beginnen ist jetzt!“ – “Every beginning is tough, but the best time to start is now!”
