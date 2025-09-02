@@ -12,27 +12,13 @@
 - 🌐 I speak tech and languages: Fluent in Vietnamese 🇻🇳, English 🇦🇺, and German 🇩🇪.
 
 ## Technology Stack 
-### Languages & Frameworks
-#### Languages
+### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/C%23-480ca8?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-ffd60a?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-ff5400?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-4361ee?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Xamarin-4cc9f0?style=for-the-badge&logo=xamarin&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-f18701?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
-
-
-#### Frameworks
-<p align="center">
-  <img alt="React.js" src="https://img.shields.io/badge/React.js-00a7e1?style=for-the-badge&logo=react&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7209b7?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-4361ee?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</p>
-
 
 
 ### Tools & Platforms
@@ -47,9 +33,10 @@
 
 #### Platforms
 <p align="center">
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-4cc9f0?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-9a031e?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-003f88?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -58,7 +45,7 @@
 ## 📫 Contact me via:
 
 <p align="center">
-  <a href="mailto:thanhtuyencs163@gmail.com">
+  <a href="mailto:lynnd01.forwork@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://thanhtuyen.vercel.app/">
