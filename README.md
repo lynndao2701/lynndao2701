@@ -1,15 +1,15 @@
 ## Hi there :wave: I'm Lynn - [Linh Dao]🌱 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGoxcmdmbXp5bnRncDd0aXExdG42Z2w4OXByZHprcHJ6amM2YjUwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-- 🔭 I'm passionate about building applications.
-- 🥅 Favorite Quote: 地図に残る仕事 (Chizu ni nokoru shigoto) – “Work that remains on the map.”
-- ⚡ Fun fact: I'm a big fan of CSI movies q(≧▽≦q).
-- 🌱 Currently learning: Cloud-native development and clean architecture principles.
-- 💡 Always curious about: AI-powered apps, edge computing, and sustainable tech.
+- 🔭 I'm passionate about turning data into insights and building solutions that make an impact.
+- 🥅 Favorite Quote: „Aller Anfang ist schwer, aber die beste Zeit zu beginnen ist jetzt!“ – “Every beginning is tough, but the best time to start is now!”
+- ⚡ Fun fact: My brain runs on iced lattes with 3 pumps of caramel syrup—data analysis goes best with caffeine.
+- 🌱 Currently learning: Cybersecurity project for blockchain development and cloud-native analytics with data visualisation best practices.
+- 💡 Always curious about: AI and automation, data storytelling, predictive analytics and forecasting in business
 - 🎯 Goal this year: Contribute to 3 open-source projects and publish a technical blog series.
-- 🧠 Motto: "Learn by doing, grow by sharing."
-- 💬 Ask me about: Front-end development, .NET MAUI, or building scalable web apps.
-- 🌐 I speak tech and languages: Fluent in Vietnamese 🇻🇳, English 🇦🇺, and Japanese 🇯🇵.
+- 🧠 Motto: "Numbers speak, I help them tell the story"
+- 💬 Ask me about: Data analysis, business intelligence (PowerBI, SQL, Excel), or building scalable solutions with Python
+- 🌐 I speak tech and languages: Fluent in Vietnamese 🇻🇳, English 🇦🇺, and German 🇩🇪.
 
 ## Technology Stack 
 ### Languages & Frameworks
