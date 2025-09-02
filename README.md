@@ -1,5 +1,5 @@
 ## Hi there :wave: I'm Lynn - [Linh Dao]🌱 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://i.pinimg.com/originals/00/56/76/005676b619ce505d6ef74e21e1092204.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://i.pinimg.com/originals/51/dc/e6/51dce6f2a7efa8981c57ebe54943fa01.gif" />
 
 - 🔭 I'm passionate about turning data into insights and building solutions that make an impact.
 - 🥅 Favorite Quote: „Aller Anfang ist schwer, aber die beste Zeit zu beginnen ist jetzt!“ – “Every beginning is tough, but the best time to start is now!”
