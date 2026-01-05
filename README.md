@@ -49,7 +49,7 @@
   <a href="mailto:lynnd01.forwork@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://thanhtuyen.vercel.app/">
+  <a href="https://lynnd01forwork.wixsite.com/lynndao">
     <img alt="Website" src="https://img.shields.io/badge/Website-00bbf9?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
